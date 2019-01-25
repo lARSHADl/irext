@@ -1,5 +1,8 @@
 # IRext Open Source IR Remote Control library
 __[中文文档](https://github.com/irext/irext/blob/master/README-cn.md)__
+
+__Official Web Site : https://irext.net__
+
 ### __IRext Projects__
   - __[Core Encoding/Decoding Algorithms](https://github.com/irext/irext-core)__
   - __[IR Code Management Console (Private Cloud Edition)](https://github.com/irext/irext-console)__
@@ -10,9 +13,7 @@ __[中文文档](https://github.com/irext/irext/blob/master/README-cn.md)__
 
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithms and remote control databases__
 
-With IRext, you can easily get zipped remote control code from Web API and decode it in various environments including embedded devices, mobile phones, PC or even in your cloud servers.
-
-Official Web Site : https://irext.net
+With IRext, you can easily get zipped remote control code from Web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
 
 
 ### Features :
