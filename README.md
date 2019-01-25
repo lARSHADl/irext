@@ -1,5 +1,5 @@
 # IRext Open Source IR Remote Control library
-### 中文 README : 
+### 中文文档: https://github.com/irext/irext/blob/master/README-cn.md
 
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithms and remote control databases__
 
