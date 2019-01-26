@@ -5,11 +5,18 @@
 
   IRext 提供数以万计的红外设备遥控编码, 并以独特的编、解码算法为任何嵌入式设备、移动设备以及服务器提供红外设备遥控功能。
 
+### 子项目:
+  - [编码/解码算法](https://github.com/irext/irext-core)
+  - [红外码管理控制台私有云版本](https://github.com/irext/irext-console)
+  - [各种平台的解码示例](https://github.com/irext/irext-examples)
+  - [Java Web索引 API](https://github.com/irext/irext-web-api)
+  - [WebCOM 插件](https://github.com/irext/irext-web-com)
 
-#### 官方站点: https://irext.net
+
+### 官方站点: https://irext.net
 
 
-#### IRext 具有的功能:
+### IRext 具有的功能:
   - 从简易的XML文件开始对红外遥控码进行二进制压缩编码。
   - 使用通用的解码算法，将编码成的二进制文件解码成 38KHz 红外波形码。
   - 提供基于公有云和私有云的码库索引及维护控制台。
@@ -23,7 +30,6 @@
   - 支持在线解码以及在线板载解码。
   - 提供离线编码索引和码库，并按月更新。
 
-------
 
 #### 红外码原理简介: https://irext.net/doc/
 
@@ -31,22 +37,9 @@
 
 #### 解码算法使用方法: https://irext.net/doc/#decode
 
-------
 
-#### IRext 的子项目:
-  - 编码/解码算法: https://github.com/irext/irext-core
-  - 红外码管理控制台私有云版本: https://github.com/irext/irext-console
-  - 各种平台的解码示例: https://github.com/irext/irext-examples
-  - Java Web索引API: https://github.com/irext/irext-web-api
-  - WebCOM (通过串行接口在你的Web页面和硬件设备之间通信 :electric_plug:) :
-    https://github.com/irext/irext-web-com
-
-------
-
-#### 联系作者: 
+### 作者: 
 
 电子邮件：strawmanbobi@163.com
 
 <img src="http://irext.net/images/bobi_qr.png" align="left" height="160" width="160">
-
-##### :hamster: 近期将开启 irext 第二期开发，实现码库持续扩充，请关注，谢谢。
