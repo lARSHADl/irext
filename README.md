@@ -42,4 +42,4 @@ With IRext, you can easily get zipped remote control code from Web API and decod
 
 Email: strawmanbobi@163.com
 
-<img src="http://irext.net/images/bobi_qr.png" align="left" height="160" width="160">
+<img src="https://github.com/irext/public-site/blob/master/web/images/bobi_qr.png" align="left" height="160" width="160">
