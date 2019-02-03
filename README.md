@@ -11,23 +11,23 @@ __Official Web Site : https://irext.net__
 - __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
 
-__IRext is an open source Infra Red Remote Control library with encoding and decoding algorithms and remote control databases__
+__IRext is an open source Infra Red Remote Control library with encoding and decoding algorithm and remote control databases__
 
-With IRext, you can easily get zipped remote control code from Web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
+With IRext, you can easily get extremely compressed remote control code from web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
 
 
 ### Features :
-- All the remote control codes are well verified and enccoded with zip algorithm.
+- All the remote control codes are well verified and extremely compressed with encoding and zipping algorithm.
 - IRext provides a set of universary decoding algorithm for 38KHz IR wave code.
 - Users can deploy private web console for IR remote code management.
-- Users can upload, verify and release IR code with web console.
-- IRext encoding zips millions bytes of IR remote code into hundreds bytes files.
-- IRext provids a set of resource optimized decoding algorithm for embedded devices and OS, takes up to 15KB RAM at most.
-- 14 categories of home appliances are supoorted (AC, TV, TOPSet, Net Box, IPTV, Stereo, Projector, Fan, Cleaning Robot, Air Cleaner, Light Bulb, DVD, Branded TOPBox and Dyson series).
+- Users can upload, verify and release IR code with private web console.
+- IRext encoding compresses millions bytes of IR remote code into files within hundreds bytes.
+- IRext provides a set of computing-resource optimized decoding algorithm for embedded devices and OS, only consume 15KB RAM at most.
+- 14 categories of home appliances are supoorted (AC, TV, TOP Set, Net Box, IPTV, Stereo, Projector, Fan, Cleaning Robot, Air Cleaner, Light Bulb, DVD, Branded TOP Box and Dyson series).
 - Support up to 10000 types of remote controls.
-- Support various devices and OS (SCM、Linux、WiSndows、Java Web、Android、RaspBerry Pi, Aduino, etc.).
-- Inluding examples for various platforms.
-- Support decoding on line (public web console) and decoding online with boards.
+- Support various types of devices and OS (SCM, Linux, Windows, Java Web, Android, RaspBerry Pi, Aduino, etc.).
+- IRext privides examples for various platforms above.
+- Support decoding online (public web console) and decoding online with evaluation boards.
 - Support offline IR codes and databases, updating monthly.
 
 
