@@ -4,10 +4,10 @@ __[中文文档](https://github.com/irext/irext/blob/master/README-cn.md)__
 __Official Web Site : https://irext.net__
 
 ### __IRext Projects__
-- __[Core Encoding/Decoding Algorithms](https://github.com/irext/core)__
+- __[Core Encoding/Decoding Algorithm](https://github.com/irext/core)__
 - __[IR Code Management Console (Private Cloud Edition)](https://github.com/irext/irext-console)__
 - __[Examples](https://github.com/irext/irext-examples)__
-- __[Java Web API for Remote Code Indexing](https://github.com/irext/irext-web-api)__
+- __[Java Web API for Remote Code Index](https://github.com/irext/irext-web-api)__
 - __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
 
@@ -34,7 +34,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 ### Documents :
 
 - __[Infra Red Remote Control Introduction](https://irext.net/doc/)__
-- __[Remote Control Code Indexing Web API](https://irext.net/doc/#services)__
+- __[Remote Control Code Index Web API](https://irext.net/doc/#services)__
 - __[Decode Algorithm Documentation](https://irext.net/doc/#decode)__
 
 
