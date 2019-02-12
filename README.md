@@ -1,7 +1,7 @@
 # IRext Open Source IR Remote Control Library
 __[中文文档](https://github.com/irext/irext/blob/master/README-cn.md)__
 
-__Official Web Site : https://irext.net__
+__[Official Web Site](https://irext.net)__
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
 ![](https://img.shields.io/badge/release-0.1.5-green.svg)
