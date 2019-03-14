@@ -1,6 +1,6 @@
 __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
-# IRext (revision 0.1.5)
+# IRext (revision 0.2.0)
 #### 开源家用电器红外的编解码和免费码库方案
 
   IRext 提供数以万计的红外设备遥控编码, 并以独特的编、解码算法为任何嵌入式设备、移动设备以及服务器提供红外设备遥控功能。
