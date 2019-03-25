@@ -46,4 +46,4 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 Email: strawmanbobi@163.com
 
-<img src="https://github.com/irext/public-site/blob/master/web/images/bobi_qr.png" align="left" height="160" width="160">
+<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">
