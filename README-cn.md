@@ -41,4 +41,4 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
 电子邮件：strawmanbobi@163.com
 
-<img src="https://github.com/irext/public-site/blob/master/web/images/bobi_qr.png" align="left" height="160" width="160">
+<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">
