@@ -14,11 +14,11 @@ __[Official Web Site](https://irext.net)__
 - __[Java Web API for Remote Code Index](https://github.com/irext/irext-web-api)__
 - __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
-
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithm and remote control databases__
 
 With IRext, you can easily get extremely compressed remote control code from web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
 
+<img src="https://github.com/irext/irext/blob/master/irext_docs/IRext-architecture.png" align="left">
 
 ### Features :
 - All the remote control codes are well verified and extremely compressed with encoding and zipping algorithm.
