@@ -27,7 +27,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 - Users can upload, verify and release IR code with private web console.
 - IRext encoding compresses millions bytes of IR remote code into files within hundreds bytes.
 - IRext provides a set of computing-resource optimized decoding algorithm for embedded devices and OS, only consume 15KB RAM at most.
-- 14 categories of home appliances are supoorted (AC, TV, TOP Set, Net Box, IPTV, Stereo, Projector, Fan, Cleaning Robot, Air Cleaner, Light Bulb, DVD, Branded TOP Box and Dyson series).
+- 14 categories of home appliances are supported (AC, TV, TOP Set, Net Box, IPTV, Stereo, Projector, Fan, Cleaning Robot, Air Cleaner, Light Bulb, DVD, Branded TOP Box and Dyson series).
 - Support up to 10000 types of remote controls.
 - Support various types of devices and OS (SCM, Linux, Windows, Java Web, Android, RaspBerry Pi, Aduino, etc.).
 - IRext privides examples for various platforms above.
