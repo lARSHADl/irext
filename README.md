@@ -7,7 +7,7 @@ __[Official Web Site](https://irext.net)__
 A new logo is coming
 
 
-<img src="https://github.com/irext/irext/blob/master/IRext_new_logo_en.jpg" height="316" width="400">
+<img src="https://github.com/irext/irext/blob/master/IRext_new_logo_en.jpg" height="160" width="200">
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
