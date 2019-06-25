@@ -3,6 +3,10 @@ __[中文文档](https://github.com/irext/irext/blob/master/README-cn.md)__
 
 __[Official Web Site](https://irext.net)__
 
+A new logo is coming
+
+<img src="https://github.com/irext/irext/blob/master/IRext_new_logo_en.jpg" align="left" height="160" width="160">
+
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
 ![](https://img.shields.io/badge/release-0.2.1-green.svg)
 ![](https://img.shields.io/badge/build-pass-green.svg)
