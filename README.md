@@ -33,13 +33,13 @@ With IRext, you can easily get extremely compressed remote control code from web
 - All remote control codes could be decoded with a single set of algorithm.
 - Users can deploy private web console for IR remote code management.
 - Users can deploy private IR code indexing service to their back-end servers.
-- Decode algorithm consumes exetermely low cost of RAM and CPU, even on 51 chips.
+- Decode algorithm consumes extremely low cost of RAM and CPU, even on 51 chips.
 - 14 categories of home appliances are supported (AC, TV, TOP Set, Net Box, IPTV, Stereo, Projector, Fan, Cleaning Robot, Air Cleaner, Light Bulb, DVD, Branded TOP Box and Dyson series).
 - Support up to 10000 types of remote controls.
-- Support various types of devices and OS (SCM, Linux, Windows, Java Web, Android, RaspBerry Pi, Aduino, etc.).
-- IRext privides examples for various platforms.
+- Decode algorithm could be applied to various types of devices and OS (SCM, Linux, Windows, Java Web, Android, iOS, RaspBerry-Pi, Aduino, etc.).
+- Examples of decode algorithm is provided for various platforms.
 - Support decoding online (public web console) and decoding online with evaluation boards.
-- Support offline IR codes and databases, updating monthly.
+- All IR codes and indexing data are being updated monthly.
 
 
 ### Documents :
