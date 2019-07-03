@@ -5,7 +5,7 @@ __[Official Web Site](https://irext.net)__
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
-![](https://img.shields.io/badge/release-0.2.1-green.svg)
+![](https://img.shields.io/badge/release-0.2.2-green.svg)
 ![](https://img.shields.io/badge/build-pass-green.svg)
 
 ### __IRext Projects__
