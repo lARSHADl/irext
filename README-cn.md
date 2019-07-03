@@ -1,11 +1,6 @@
 __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
-# IRext (revision 0.2.0)
-
-我们将使用一个新的 logo 和 brand
-
-
-<img src="https://github.com/irext/irext/blob/master/IRext_new_logo_cn.jpg" height="160" width="200">
+# IRext (V0.2.2)
 
 #### 开源家用电器红外的编解码和免费码库方案
 
