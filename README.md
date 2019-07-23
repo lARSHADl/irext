@@ -41,6 +41,8 @@ With IRext, you can easily get extremely compressed remote control code from web
 - __[Infra Red Remote Control Introduction](https://irext.net/doc/)__
 - __[Remote Control Code Index Web API](https://irext.net/doc/#services)__
 - __[Decode Algorithm Documentation](https://irext.net/doc/#decode)__
+- __[Build up Private Console](https://irext.net/doc/#local_console)__
+- __[IR Database Maintenance](https://irext.net/doc/#maintain_db)__
 
 
 ### Author
