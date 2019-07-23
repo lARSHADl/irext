@@ -19,7 +19,9 @@ __IRext is an open source Infra Red Remote Control library with encoding and dec
 
 With IRext, you can easily get extremely compressed remote control code from web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
 
-<img src="https://github.com/irext/irext/blob/master/irext_docs/integration_adv.png" align="left">
+A diagram below illustrates a typical architecture of user system with IRext.
+
+<img src="https://github.com/irext/irext/blob/master/irext_docs/integration_adv.png">
 
 ### Features :
 - All remote control codes are well verified.
