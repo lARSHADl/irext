@@ -10,9 +10,11 @@ __[Official Web Site](https://irext.net)__
 
 ### __IRext Projects__
 - __[Encoding and Decoding Core Library](https://github.com/irext/core)__
-- __[IR Code Management Console (Private Cloud Edition)](https://github.com/irext/irext-console)__
-- __[Examples](https://github.com/irext/irext-examples)__
-- __[Java Web API for Remote Code Index](https://github.com/irext/irext-web-api)__
+- __[IR Remote Code Indexing Service (Private Cloud Edition)](https://github.com/irext/private-server)__
+- __[IR Remote Code Management Console (Private Cloud Edition)](https://github.com/irext/private-console)__
+- __[Decode Examples](https://github.com/irext/irext-examples)__
+- __[Java Web API for Remote Code Index (Including Android API)](https://github.com/irext/irext-web-api)__
+- __[Offiline IR Remote Code Database](https://github.com/irext/database)__
 - __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithm and remote control databases__
