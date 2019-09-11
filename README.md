@@ -9,7 +9,7 @@ __[Official Web Site](https://irext.net)__
 ![](https://img.shields.io/badge/build-pass-green.svg)
 
 ### __IRext Projects__
-- __[Core Encoding/Decoding Algorithm](https://github.com/irext/core)__
+- __[Encoding and Decoding Core Library](https://github.com/irext/core)__
 - __[IR Code Management Console (Private Cloud Edition)](https://github.com/irext/irext-console)__
 - __[Examples](https://github.com/irext/irext-examples)__
 - __[Java Web API for Remote Code Index](https://github.com/irext/irext-web-api)__
