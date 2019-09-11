@@ -7,10 +7,12 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
   IRext 提供数以万计的红外设备遥控编码, 并以独特的编、解码算法为任何嵌入式设备、移动设备以及服务器提供红外设备遥控功能。
 
 ### 子项目:
-- [编码/解码算法](https://github.com/irext/irext-core)
-- [红外码管理控制台私有云版本](https://github.com/irext/irext-console)
+- [核心编码/解码算法](https://github.com/irext/irext-core)
+- [红外码索引服务私有云版本](https://github.com/irext/private-server)
+- [红外码管理控制台私有云版本](https://github.com/irext/private-console)
 - [各种平台的解码示例](https://github.com/irext/irext-examples)
 - [Java Web索引 API](https://github.com/irext/irext-web-api)
+- [离线索引及二进制码库](https://github.com/irext/database)
 - [WebCOM 插件](https://github.com/irext/irext-web-com)
 
 
@@ -31,11 +33,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 - 支持在线解码以及在线板载解码。
 - 提供离线编码索引和码库，并按月更新。
 
-### 文档:
-
-- [红外码原理简介](https://irext.net/doc/)
-- [码库品牌索引RestAPI](https://irext.net/doc/#services)
-- [解码算法使用方法](https://irext.net/doc/#decode)
+### [文档](https://irext.net/doc/)
 
 
 ### 作者: 
