@@ -49,12 +49,6 @@ A diagram below illustrates a typical architecture of user system with IRext.
 
 Email: strawmanbobi@163.com
 
-
-- Wechat strawmanbobi
-
-<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">
-
-
-- Ding talk: strawmanbobi
-
-<img src="https://github.com/irext/irext/blob/master/author_dingding.png" align="left" height="160" width="160">
+Wechat                     |  Ding talk
+:-------------------------:|:-------------------------:
+<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">  |  <img src="https://github.com/irext/irext/blob/master/author_dingding.png" align="left" height="160" width="160">
