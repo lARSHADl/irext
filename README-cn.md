@@ -1,6 +1,6 @@
 __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
-# IRext (V0.2.2)
+# IRext (V0.2.4)
 
 #### 开源家用电器红外的编解码和免费码库方案
 
@@ -14,6 +14,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 - [Java Web索引 API](https://github.com/irext/irext-web-api)
 - [离线索引及二进制码库](https://github.com/irext/database)
 - [WebCOM 插件](https://github.com/irext/irext-web-com)
+- [IRIS]() 进展中...
 
 
 ### 官方站点: https://irext.net
@@ -32,6 +33,8 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 - 提供不同平台解码程序样例。
 - 支持在线解码以及在线板载解码。
 - 提供离线编码索引和码库，并按月更新。
+- 支持逆向匹配索引。
+- 支持通过 IRIS 服务进行码库扩展和维护。
 
 ### [文档](https://irext.net/doc/)
 
@@ -40,4 +43,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
 电子邮件：strawmanbobi@163.com
 
-<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">
+微信（下班时间联系）                     |  钉钉（工作时间联系）
+:-------------------------:|:-------------------------:
+<img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">  |  <img src="https://github.com/irext/irext/blob/master/author_dingding.png" align="left" height="160" width="160">
+
