@@ -5,7 +5,7 @@ __[Official Web Site](https://irext.net)__
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
-![](https://img.shields.io/badge/release-0.2.2-green.svg)
+![](https://img.shields.io/badge/release-0.2.4-green.svg)
 ![](https://img.shields.io/badge/build-pass-green.svg)
 
 ### __IRext Projects__
@@ -38,6 +38,8 @@ A diagram below illustrates a typical architecture of user system with IRext.
 - Examples of decode algorithm is provided for various platforms.
 - Support decoding online (public web console) and decoding online with evaluation boards.
 - All IR codes and indexing data are being updated monthly.
+- Support IR code reverse match.
+- Support IR code maintainance via IR Interchange Service.
 
 
 ### [Documents](https://irext.net/doc/)
@@ -48,3 +50,4 @@ A diagram below illustrates a typical architecture of user system with IRext.
 Email: strawmanbobi@163.com
 
 <img src="https://github.com/irext/irext/blob/master/wx_qr.png" align="left" height="160" width="160">
+<img src="https://github.com/irext/irext/blob/master/author_dingding.png" align="left" height="160" width="160">
