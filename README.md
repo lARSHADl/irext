@@ -1,4 +1,4 @@
-# IRext Open Source IR Remote Control Library
+# IRext Universal IR Remote Control Solution
 __[中文 Readme](https://github.com/irext/irext/blob/master/README-cn.md)__
 
 __[Official Web Site](https://irext.net)__
