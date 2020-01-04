@@ -34,7 +34,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 - 支持在线解码以及在线板载解码。
 - 提供离线编码索引和码库，并按月更新。
 - 支持逆向匹配索引。
-- 支持通过 IRIS 服务进行码库扩展和维护。
+- 支持通过 IRIS 服务进行码库扩展和维护(已申请专利)。
 
 ### [文档](https://irext.net/doc/)
 
