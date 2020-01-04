@@ -2,9 +2,7 @@
 
 <img src="https://github.com/irext/irext/blob/master/merge-round@4x.png" height="96" width="96">
 
-__[中文 Readme](https://github.com/irext/irext/blob/master/README-cn.md)__
-
-__[Official Web Site](https://irext.net)__
+__[中文介绍](https://github.com/irext/irext/blob/master/README-cn.md)__ | __[Official Web Site](https://irext.net)__
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
