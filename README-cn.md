@@ -1,8 +1,6 @@
 __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
-# IRext (V0.2.4)
-
-#### 开源家用电器红外的编解码和免费码库方案
+# IRext 万能红外遥控解决方案
 
   IRext 提供数以万计的红外设备遥控编码, 并以独特的编、解码算法为任何嵌入式设备、移动设备以及服务器提供红外设备遥控功能。
 
@@ -20,7 +18,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 ### 官方站点: https://irext.net
 
 
-### 功能亮点:
+### 功能支持:
 - 从简易的XML文件开始对红外遥控码进行二进制压缩编码。
 - 使用通用的解码算法，将编码成的二进制文件解码成 38KHz 红外波形码。
 - 提供基于公有云和私有云的码库索引及维护控制台。
