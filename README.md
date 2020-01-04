@@ -1,4 +1,7 @@
 # IRext Universal IR Remote Control Solution
+
+<img src="https://github.com/irext/irext/blob/master/merge-round@4x.png" height="96" width="96">
+
 __[中文 Readme](https://github.com/irext/irext/blob/master/README-cn.md)__
 
 __[Official Web Site](https://irext.net)__
