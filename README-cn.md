@@ -43,5 +43,5 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
 微信（下班时间联系）                     |  钉钉（工作时间联系）
 :-------------------------:|:-------------------------:
-<img src="https://github.com/irext/irext/blob/master/resources/author_wechat.png" align="left" height="160" width="160">  |  <img src="https://github.com/irext/irext/blob/master/resources/author_dingtalk.png" align="left" height="160" width="160">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
 

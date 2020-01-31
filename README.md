@@ -1,6 +1,6 @@
 # IRext Universal IR Remote Control Solution
 
-<img src="https://github.com/irext/irext/blob/master/resources/icon.png" height="96" width="96">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/icon.png" height="96" width="96">
 
 __[中文介绍](https://github.com/irext/irext/blob/master/README-cn.md)__ | __[Official Web Site](https://irext.net)__
 
@@ -24,7 +24,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 A diagram below illustrates a typical architecture of user system with IRext.
 
-<img src="https://github.com/irext/irext/blob/master/resources/integration_adv.png">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/integration_adv.png">
 
 ### Features :
 - All remote control codes are well verified.
@@ -52,4 +52,4 @@ Email: strawmanbobi@163.com
 
 Wechat                     |  Ding talk
 :-------------------------:|:-------------------------:
-<img src="https://github.com/irext/irext/blob/master/resources/author_wechat.png" align="left" height="160" width="160">  |  <img src="https://github.com/irext/irext/blob/master/resources/author_dingtalk.png" align="left" height="160" width="160">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
