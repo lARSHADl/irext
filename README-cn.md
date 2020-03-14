@@ -1,6 +1,6 @@
 __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
-# IRext 万能红外遥控解决方案
+# IRext - 开源万能红外遥控解决方案
 
   IRext 提供数以万计的红外设备遥控编码, 并以独特的编、解码算法为任何嵌入式设备、移动设备以及服务器提供红外设备遥控功能。
 
