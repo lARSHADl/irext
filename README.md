@@ -6,7 +6,7 @@ __[中文介绍](https://github.com/irext/irext/blob/master/README-cn.md)__ | __
 
 
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
-![](https://img.shields.io/github/release-0.2.5-green.svg)
+![](https://img.shields.io/badge/release-0.2.5-green.svg)
 
 ### __IRext Projects__
 - __[Encoding and Decoding Core Library](https://github.com/irext/core)__
