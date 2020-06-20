@@ -8,15 +8,6 @@ __[中文介绍](https://github.com/irext/irext/blob/master/README-cn.md)__ | __
 ![](https://img.shields.io/github/license/irext/core.svg?style=flat)
 ![](https://img.shields.io/badge/release-0.2.5-green.svg)
 
-### __IRext Projects__
-- __[Encoding and Decoding Core Library](https://github.com/irext/core)__
-- __[IR Remote Code Indexing Service (Private Cloud Edition)](https://github.com/irext/private-server)__
-- __[IR Remote Code Management Console (Private Cloud Edition)](https://github.com/irext/private-console)__
-- __[Decode Examples](https://github.com/irext/irext-examples)__
-- __[Java Web API for Remote Code Index (Including Android API)](https://github.com/irext/irext-web-api)__
-- __[Offline IR Remote Code Database](https://github.com/irext/database)__
-- __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
-
 __IRext is an open source Infra Red Remote Control library with encoding and decoding algorithm and remote control databases__
 
 With IRext, you can easily get extremely compressed remote control code from web API and decode it in various environment including embedded devices, mobile phones, PC or even in your cloud servers.
@@ -24,6 +15,15 @@ With IRext, you can easily get extremely compressed remote control code from web
 A diagram below illustrates a typical architecture of user system with IRext.
 
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/integration_adv.png">
+
+### __Sub Projects__
+- __[Encoding and Decoding Core Library](https://github.com/irext/core)__
+- __[IR Remote Code Indexing Service (Private Cloud Edition)](https://github.com/irext/private-server)__
+- __[IR Remote Code Management Console (Private Cloud Edition)](https://github.com/irext/private-console)__
+- __[Decode Examples](https://github.com/irext/irext-examples)__
+- __[Java Web API for Remote Code Index (Including Android API)](https://github.com/irext/irext-web-api)__
+- __[Offline IR Remote Code Database](https://github.com/irext/database)__
+- __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
 ### Features :
 - All remote control codes are well verified.
