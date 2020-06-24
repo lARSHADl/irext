@@ -18,10 +18,9 @@ A diagram below illustrates a typical architecture of user system with IRext.
 
 ### __Sub Projects__
 - __[Encoding and Decoding Core Library](https://github.com/irext/core)__
-- __[IR Remote Code Indexing Service (Private Cloud Edition)](https://github.com/irext/private-server)__
-- __[IR Remote Code Management Console (Private Cloud Edition)](https://github.com/irext/private-console)__
+- __[IR Remote Private Cloud](https://github.com/irext/private-cloud)__
 - __[Decode Examples](https://github.com/irext/irext-examples)__
-- __[Java Web API for Remote Code Index (Including Android API)](https://github.com/irext/irext-web-api)__
+- __[Java Web and Android API for Remote Code Index](https://github.com/irext/irext-web-api)__
 - __[Offline IR Remote Code Database](https://github.com/irext/database)__
 - __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
