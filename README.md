@@ -14,7 +14,7 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 A diagram below illustrates a typical architecture of user system with IRext.
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/irext_framework.png" width="75%" height="75%">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/irext_frameworks.png">
 
 ### __Sub Projects__
 - __[📡 Encoding and Decoding Core Library](https://github.com/irext/core)__
