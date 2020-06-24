@@ -14,15 +14,15 @@ With IRext, you can easily get extremely compressed remote control code from web
 
 A diagram below illustrates a typical architecture of user system with IRext.
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/irext_framework.png">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/irext_framework.png" width="90%" height="90%">
 
 ### __Sub Projects__
-- __[Encoding and Decoding Core Library](https://github.com/irext/core)__
-- __[IR Remote Private Cloud](https://github.com/irext/private-cloud)__
-- __[Decode Examples](https://github.com/irext/irext-examples)__
-- __[Java Web and Android API for Remote Code Index](https://github.com/irext/irext-web-api)__
-- __[Offline IR Remote Code Database](https://github.com/irext/database)__
-- __[WebCOM Plugin](https://github.com/irext/irext-web-com)__
+- __[📡 Encoding and Decoding Core Library](https://github.com/irext/core)__
+- __[🌧️ Private Cloud (Indexing Service and Admin Console)](https://github.com/irext/private-cloud)__
+- __[📙 Decode Examples](https://github.com/irext/irext-examples)__
+- __[📦 Java Web and Android API for Remote Code Index](https://github.com/irext/irext-web-api)__
+- __[🧰 Offline IR Remote Code Database](https://github.com/irext/database)__
+- __[🔌 WebCOM Plugin](https://github.com/irext/irext-web-com)__
 
 ### Features :
 - All remote control codes are well verified.
