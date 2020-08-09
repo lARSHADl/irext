@@ -46,3 +46,9 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
 
 方案和码库虽免费，在获得技术支持之前，希望您能够为本项目加一颗小星以表达对作者的支持。加星之后，请在微信或者钉钉申请好友内容里贴入你加星的 github 账号以获得通过。
+
+如果您认为此项目对您的业务有所帮助，非常欢迎为作者捐赠一杯咖啡。
+
+通过微信支付捐赠：
+
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate_qr.png" align="left" height="200" width="200">
