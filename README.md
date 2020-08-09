@@ -53,3 +53,9 @@ Wechat                     |  Ding talk
 <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
 
 The solution and IR data is free, however, you have to pay a github star to project IRext to get contact or support from the author, please add the github stargazer account to access message in SNS APPs.
+
+Also, if you think this protect really helped you, welcome to buy the project creator a cup of StarBucks.
+
+Donate via wechat: 
+
+<image src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate_qr.png" height="200" width="200">
