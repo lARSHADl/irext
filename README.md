@@ -50,7 +50,7 @@ Email: strawmanbobi@163.com
 
 Wechat                     |  Ding talk
 :-------------------------:|:-------------------------:
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/dingtalk.png" align="left" height="160" width="160">
 
 The solution and IR data is free, however, you have to pay a github star to project IRext to get contact or support from the author, please add the github stargazer account to access message in SNS APPs.
 
