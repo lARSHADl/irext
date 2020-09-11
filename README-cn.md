@@ -43,7 +43,7 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
 微信（下班时间联系）                     |  钉钉（工作时间联系）
 :-------------------------:|:-------------------------:
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/author_dingtalk.png" align="left" height="160" width="160">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/wechat.png" align="left" height="160" width="160">  |  <img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/dingtalk.png" align="left" height="160" width="160">
 
 方案和码库虽免费，在获得技术支持之前，希望您能够为本项目加一颗小星以表达对作者的支持。加星之后，请在微信或者钉钉申请好友内容里贴入你加星的 github 账号以获得通过。
 
