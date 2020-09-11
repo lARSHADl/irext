@@ -58,4 +58,4 @@ Also, if you think this protect really helped you, welcome to buy the project cr
 
 Donate via wechat: 
 
-<image src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate_qr.png" height="200" width="200">
+<image src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="200" width="200">
