@@ -51,4 +51,4 @@ __[README.md in English](https://github.com/irext/irext/blob/master/README.md)__
 
 通过微信支付捐赠：
 
-<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate_qr.png" align="left" height="200" width="200">
+<img src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" align="left" height="200" width="200">
