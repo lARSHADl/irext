@@ -56,6 +56,6 @@ The solution and IR data is free, however, you have to pay a github star to proj
 
 Also, if you think this protect really helped you, welcome to buy the project creator a cup of StarBucks.
 
-Donate via wechat: 
+Donate via Wechat: 
 
 <image src="http://irext-static.oss-cn-hangzhou.aliyuncs.com/donate.png" height="200" width="200">
