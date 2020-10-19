@@ -16,10 +16,6 @@ A diagram below shows the infrastructure of IRext solution with IRIS.
 
 <img src="https://irext.net/doc/images/architecture.png">
 
-You can build up your own universal IR remote control product with the best practice, accoding to diagram below.
-
-<img src="https://irext.net/index/images/integration_adv.png">
-
 ### __Sub Projects__
 - __[📡 Encoding and Decoding Core Library](https://github.com/irext/core)__
 - __[🌧️ Private Cloud (Indexing Service and Admin Console)](https://github.com/irext/private-cloud)__
